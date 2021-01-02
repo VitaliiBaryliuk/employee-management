@@ -1,6 +1,7 @@
 {
   "name": "angular",
   "version": "0.0.0",
+  "homepage": "https://vitaliybaryliuk.github.io/employee-management",
   "scripts": {
     "ng": "ng",
     "start": "ng serve --open",
